@@ -1,0 +1,11 @@
+name: TiDE
+  L:
+  H:
+  r:
+  r_hat:
+  p:
+  hidden_dim:
+  encoder_layer_num:
+  decoder_layer_num:
+  featureProjectionHidden:
+  temporalDecoderHidden:
